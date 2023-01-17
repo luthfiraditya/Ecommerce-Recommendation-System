@@ -15,6 +15,6 @@ In this notebook, we will be implementing recommendation model to recommend prod
 Using an ecommerce dataset, this recommendation system was created that recommends to users which product they will like. 
 
 ### Methodology
-We will try all the model based that available in surprise library such as SVD, NMF, Slope one etc. And choose the bers perfomance method.
+We will try all the model based that available in surprise library such as SVD, NMF, Slope one etc. And choose the best performance method.
 
 I also using MLflow to tracking the experiment. You can read the full tutorial [here](https://medium.com/@luthfirdty/reproducible-data-science-experiment-using-mlflow-6f2f6e1baa8c) 
