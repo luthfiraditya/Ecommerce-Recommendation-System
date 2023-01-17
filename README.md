@@ -12,7 +12,7 @@ The Value of Recommendation System
 In this notebook, we will be implementing recommendation model to recommend product to user by using E-commerce data that has 3.265.689 rows and 3 columns applied to 377.716 user and 1.166 product. 
 
 ### Project Overview
-Using am ecommerce dataset, this recommendation system was created that recommends to users which product they will like. 
+Using an ecommerce dataset, this recommendation system was created that recommends to users which product they will like. 
 
 ### Methodology
 We will try all the model based that available in surprise library such as SVD, NMF, Slope one etc. And choose the bers perfomance method.
